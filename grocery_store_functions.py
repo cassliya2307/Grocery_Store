@@ -24,5 +24,5 @@ def show_available_groceries_in_cart(grocery_cart = []):
 	else:
 		for items in grocery_cart:
 			print(items)
-			return "Thanks For Shopping" 
+	return "Thanks For Shopping" 
 		
